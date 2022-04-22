@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://Bheema:bheema_12@cluster0.ucavg.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+     "baseUrl":"http://localhost:8080"
+}
